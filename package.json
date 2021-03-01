@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Turkyden/vue-darkreader/issues"
   },
-  "homepage": "https://github.com/Turkyden/vue-darkreader#readme"
+  "homepage": "https://github.com/Turkyden/vue-darkreader#readme",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
+  "devDependencies": {
+    "git-cz": "^4.7.6"
+  }
 }
