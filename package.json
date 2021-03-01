@@ -18,10 +18,12 @@
   "homepage": "https://github.com/Turkyden/vue-darkreader#readme",
   "config": {
     "commitizen": {
-      "path": "git-cz"
+      "path": "cz-conventional-changelog"
     }
   },
   "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "3.3.0",
     "git-cz": "^4.7.6"
   }
 }
