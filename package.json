@@ -1,0 +1,19 @@
+{
+  "name": "vue-darkreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turkyden/vue-darkreader.git"
+  },
+  "author": "Turkyden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turkyden/vue-darkreader/issues"
+  },
+  "homepage": "https://github.com/Turkyden/vue-darkreader#readme"
+}
